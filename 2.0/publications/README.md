@@ -9,6 +9,7 @@ The original release remains available as the foundation. This update develops i
 ## Read and practice
 
 - [Open the Intentional Images document — PDF](https://github.com/artbycarlbond/Art-by-Carl-Bond/blob/main/2.0/publications/Intentional_Images.pdf)
-- [Open the original seven-page report](https://github.com/artbycarlbond/Art-by-Carl-Bond/blob/main/report.pdf)
+- [Open the original seven-page report, English](https://github.com/artbycarlbond/Art-by-Carl-Bond/blob/main/2.0/publications/report-EN.pdf)
+- [Open the original seven-page report, French, AI Translated](https://github.com/artbycarlbond/Art-by-Carl-Bond/blob/main/2.0/publications/report-FR.pdf)
 - [Open the Intentional Inquiry worksheet — PDF](https://github.com/artbycarlbond/Art-by-Carl-Bond/blob/main/2.0/publications/Intentional_Inquiry_Worksheet.pdf)
 - [View or adapt the worksheet — Markdown](https://github.com/artbycarlbond/Art-by-Carl-Bond/blob/main/2.0/publications/Intentional_Inquiry_Worksheet.md)
