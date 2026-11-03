@@ -10,6 +10,10 @@ This collection extends the archive first published on October 4, 2026.
 
 **Asking Questions Shouldn't Require Superpowers (v0.1)** explores inquiry, user agency, and recovering from interrupted AI work. It uses football and changing-weather analogies to explain how people can clarify a request, question a refusal, examine an answer, and preserve useful work as models change. It also explains the limits of those analogies and why persistence alone cannot guarantee correctness.
 
+**A Fair Standard for AI Users (v0.1)** proposes practical expectations for understandable information, notice of significant changes, control over saved work and data, accessible review, and accountability when something goes wrong. It includes assessment questions and a failure-report template, while distinguishing existing human-rights principles from the protections it proposes. Its central concern is that fair treatment should not depend on extraordinary technical knowledge or persistence.
+
+**Human Scale: Information, Movement, and Community (v0.1)** explores how accessible information can support movement, creative practice, social connection, and everyday life. It includes a community-hub example and an optional question–encounter–reflection–return exercise. Drawing on public-health sources, it considers how digital tools and physical places can support people's choices while preserving remote participation, accessibility, and the freedom to rest.
+
 These version 0.1 companions are working materials for readers to test and adapt with their chosen AI systems. Their proposed methods have not been validated across multiple systems and do not guarantee consistent model behavior or correct answers.
 
 The original release remains available as the foundation. This update develops its application through additional review and teaching material.
