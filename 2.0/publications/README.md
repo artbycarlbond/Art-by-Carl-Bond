@@ -27,5 +27,7 @@ The original release remains available as the foundation. This update develops i
 
 <br>
   
-- [Use the AI Continuity Kit — Markdown](https://github.com/artbycarlbond/Art-by-Carl-Bond/blob/main/2.0/publications/AI-Continuity-Kit-v0.1.md)
+- [Read the AI Continuity Kit — Markdown](https://github.com/artbycarlbond/Art-by-Carl-Bond/blob/main/2.0/publications/AI-Continuity-Kit-v0.1.md)
 - [Read Asking Questions Shouldn't Require Superpowers — Markdown](https://github.com/artbycarlbond/Art-by-Carl-Bond/blob/main/2.0/publications/Asking-Questions-Shouldnt-Require-Superpowers-v0.1.md)
+- [Read A Fair Standard for AI Users — Markdown](https://github.com/artbycarlbond/Art-by-Carl-Bond/blob/main/2.0/publications/A-Fair-Standard-for-AI-Users-v0.1.md)
+- [Read Human Scale Information Movement and Community — Markdown](https://github.com/artbycarlbond/Art-by-Carl-Bond/blob/main/2.0/publications/Human-Scale-Information-Movement-and-Community-v0.1.md)
